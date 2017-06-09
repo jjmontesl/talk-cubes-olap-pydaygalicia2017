@@ -1,0 +1,2 @@
+click==6.7
+markdownreveal==0.1.4
