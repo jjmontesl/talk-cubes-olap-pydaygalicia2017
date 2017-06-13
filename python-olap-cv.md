@@ -538,7 +538,7 @@ CubesViewer can be loaded simply by pointing the browser at:
 * Lower level data tools in Python: [Pandas](http://pandas.pydata.org/), SQLAlchemy, NumPy
 * Reporting: BIRT, Jasper, Pentaho, [SSRS](https://msdn.microsoft.com/es-es/library/ms159106.aspx)
 * Analytic servers: [Cubes](http://cubes.databrewery.org/), [ElasticSearch](https://www.elastic.co/), [Cassandra](http://cassandra.apache.org/), MSAS, noSQL
-* Visualization tools: [Kibana](https://www.elastic.co/products/kibana), [Superset](https://github.com/airbnb/superset)... [d3.js](https://d3js.org/), [CubesViewer](CubesViewer)
+* Visualization tools: [Kibana](https://www.elastic.co/products/kibana), [Superset](https://github.com/airbnb/superset)... [d3.js](https://d3js.org/), [CubesViewer](http://www.cubesviewer.com)
 * Common SaaS: Qlik, Datadog, Firebase, Google Analytics...
 * Standards: MDX, Google Dataset
 

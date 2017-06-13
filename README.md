@@ -1,7 +1,7 @@
 OLAP data analysis and visualization with Cubes and CubesViewer
 ===============================================================
 
-**Slides and examples for the PyDay Galicia 2017 talk about Home Assistant**
+**Slides for the OLAP data analysis and visualization with Cubes and CubesViewer talk**
 
 
 Overview
